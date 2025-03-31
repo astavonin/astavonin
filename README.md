@@ -1,4 +1,6 @@
-🤟 Hey there! I’m a Software Engineer who’s spent decades diving deep into software architecture, distributed computing, and security. I love tackling complex problems, designing scalable systems, and making sure things don’t just work—but work really well.
+🤟 Hey there! I’m a Software Engineer who’s spent decades diving deep into software architecture, distributed computing, and security. I love tackling complex problems, designing scalable systems, and ensuring things don’t just work—but work really well.
+
+👉 I'm currently working on [The Go Optimization Guide](https://goperf.dev), helping developers build efficient and performant Go applications.
 
 ➡️ You can reach me on [LinkedIn](https://www.linkedin.com/in/astavonin) or check my latest [blog posts](http://sysdev.me).
 

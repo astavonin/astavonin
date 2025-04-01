@@ -4,4 +4,4 @@
 
 📩 You can reach me on [LinkedIn](https://www.linkedin.com/in/astavonin) or check my latest [blog posts](http://sysdev.me).
 
-🏔️ When I’m not at my keyboard, I love traveling, capturing beautiful [nature shots](https://www.instagram.com/kaapython/) and [portraits](https://www.instagram.com/alexandveronika/), or spending time with my German Shepherd, [Molly](https://sysdev.me/wp-content/uploads/2025/02/1.jpeg)—she brings so much joy to my life!
+🏔️ When I’m not at my keyboard, I love traveling, capturing beautiful [nature shots](https://www.instagram.com/kaapython/) and [portraits](https://www.instagram.com/alexandveronika/), or spending time with my German Shepherd, [Molly](https://sysdev.me/wp-content/uploads/photos/molly.jpeg)—she brings so much joy to my life!

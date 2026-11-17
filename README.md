@@ -1,7 +1,11 @@
-🤟 Hey there! I’m a Software Engineer who’s spent decades diving deep into software architecture, distributed computing, and security. I love tackling complex problems, designing scalable systems, and ensuring things don’t just work—but work really well.
+🤟 Hey there! I'm Alexander — a software engineer with ~20 years on systems that have to hold up under load: distributed backends, low-latency video pipelines, and the C++/Go underneath them. Currently an independent contractor.
 
-👉 I'm currently working on [The Go Optimization Guide](https://goperf.dev), helping developers build efficient and performant Go applications.
+📘 I wrote [The Go Optimization Guide](https://goperf.dev) — patterns for high-performance Go, now also in print as [*Высокопроизводительный Go. Руководство по оптимизации*](https://bhv.ru/product/vysokoproizvoditelnyj-go-rukovodstvo-po-optimizatsii/) (БХВ, 2026).
 
-📩 You can reach me on [LinkedIn](https://www.linkedin.com/in/astavonin), send me an [email](mailto:alex@sysdev.me), or check my latest [blog posts](http://sysdev.me).
+🔭 Lately I write about glass-to-glass video on embedded hardware, Bazel cross-compilation, and what AI actually changes about the engineering process — all on [sysdev.me](https://sysdev.me).
 
-🏔️ When I’m not at my keyboard, I love traveling, capturing beautiful [nature shots](https://www.instagram.com/kaapython/) and [portraits](https://www.instagram.com/alexandveronika/), or spending time with my German Shepherd, [Molly](https://sysdev.me/img/molly.jpeg)—she brings so much joy to my life!
+🧰 C++, Go, Rust, Python · Bazel, GStreamer, Linux
+
+📩 [LinkedIn](https://www.linkedin.com/in/astavonin) · [email](mailto:alex@sysdev.me) · [blog](https://sysdev.me)
+
+🏔️ Away from the keyboard: mountains in Kyrgyzstan, [nature](https://www.instagram.com/kaapython/) and [portrait](https://www.instagram.com/alexandveronika/) photography, and my German Shepherd [Molly](https://sysdev.me/img/molly.jpeg).
